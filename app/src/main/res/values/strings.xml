@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">SnapShop</string>
+    <string-array name="shop">
+        <item>Bitte auswählen...</item>
+        <item>Amazon.de</item>
+        <item>Lidl.de</item>
+        <item>Rewe.de</item>
+    </string-array>
+</resources>
